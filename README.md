@@ -9,4 +9,5 @@ This program Scrap the search result of the Amazon.com website and return the re
     <li>Product Ratings</li>
   </ul>
 
-Results are also Stored in "search_result.json" file
+Results are also Stored in "search_result.json" file</br>
+<a href="https://youtu.be/Bw9Nc6VOJS8">Click here to see demo</a>
